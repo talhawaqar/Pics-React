@@ -1,6 +1,40 @@
-# Getting Started with Create React App
+# PICS-REACT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This React app uses Unsplash API to fetch searched images and display them in a beautifully designed grid.
+
+### Screenshot
+
+![](/public/Screenshot.png)
+
+## 🔧 Built with
+
+- React
+- Node Package Manager(npm)
+
+## Get started
+
+### Prerequisites
+
+1. Node Package Mangaer(npm)
+
+1. Node
+
+### Steps to follow
+
+1. Clone the repository to your local machine by running `git clone git@github.com:talhawaqar/Pics-React.git` in your terminal
+2. On your local machine, navigate to the game folder using `cd PICS_REACT` in your terminal
+3. Run `npm install` to install all the necessary dependencies.
+4. Run `npm run build`
+5. Run `npm start` to start the application on a local server
+
+## ✒️ Authors
+
+👤 **Muhammad Talha Waqar**
+
+- Github: [@TalhaWaqar](https://github.com/talhawaqar)
+- Linkedin: [@TalhaWaqar](https://www.linkedin.com/in/talhawaqar/)
+- E-mail: <a href="mailto:talhawaqar007@gmail.com?subject=Hello Talha!">Email</a>
+- Twitter: [@TalhaWaqar](https://twitter.com/MuhammadTalhaW4)
 
 ## Available Scripts
 
@@ -13,11 +47,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `yarn build`
 
@@ -38,12 +67,6 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
@@ -68,3 +91,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Show your support
+
+Give ⭐ Star me on GitHub — it helps!
+
+## Acknowledgements
+
+[Microverse](https:www.microverse.org)
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
